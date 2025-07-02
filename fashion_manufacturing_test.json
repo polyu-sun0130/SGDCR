@@ -1,0 +1,2087 @@
+[
+    {
+        "instruction": "What are the main steps in the clothing production process?",
+        "input": "",
+        "output": "The clothing production process includes surface and auxiliary material inspection, technical preparation, pattern making, trial sample, sealing, process document preparation, cutting, sewing, first piece confirmation (first wash tank), buttonhole sewing, ironing, garment inspection, packaging, warehousing and shipping."
+    },
+    {
+        "instruction": "What technical preparations are required before mass production?",
+        "input": "",
+        "output": "Before mass production, technical preparations such as process sheet formulation, sample production and sample garment confirmation are required."
+    },
+    {
+        "instruction": "What is a garment process sheet and what is its function?",
+        "input": "",
+        "output": "A garment process sheet is a processing guide document that covers detailed requirements such as garment specifications, sewing technology, ironing, and packaging. It is an important document to ensure smooth production."
+    },
+    {
+        "instruction": "What are the basic requirements for making clothing samples?",
+        "input": "",
+        "output": "The production of clothing samples requires accurate dimensions, complete specifications, clear direction of silk strands, and the style number and quality requirements must be clearly marked."
+    },
+    {
+        "instruction": "What are the steps to design a clothing pattern?",
+        "input": "",
+        "output": "The steps to design a clothing pattern include determining the main pattern rectangular frame, marking key dimensions, adjusting the shape, calculating the stitching line and seam loss, etc."
+    },
+    {
+        "instruction": "What are the basic principles of nesting?",
+        "input": "",
+        "output": "The basic principles of nesting are \"complete, reasonable, and economical\", aiming to improve fabric utilization and reduce production costs."
+    },
+    {
+        "instruction": "What are the main aspects of appearance quality inspection?",
+        "input": "",
+        "output": "Appearance quality inspection mainly includes dimensional error, sewing quality, grid and stripe alignment, color difference, thread cleaning and other aspects."
+    },
+    {
+        "instruction": "What are the main aspects of internal quality inspection?",
+        "input": "",
+        "output": "Internal quality inspection mainly includes shrinkage, color fastness, weight, strength and other aspects."
+    },
+    {
+        "instruction": "What are the standards for thread trimming?",
+        "input": "",
+        "output": "The standards for thread trimming are that the garment must have no extra threads, be neatly spliced, and have no missing or misaligned seams."
+    },
+    {
+        "instruction": "What follow-up treatment is required for the inspected garments?",
+        "input": "",
+        "output": "The inspected garments need to be ironed, packaged, and marked with product specifications and models."
+    },
+    {
+        "instruction": "What should we pay special attention to when packaging individually?",
+        "input": "",
+        "output": "When packaging individually, we need to ensure that the size, style, and color are consistent to avoid mispackaging."
+    },
+    {
+        "instruction": "What are the special requirements for box packing?",
+        "input": "",
+        "output": "When box packing, it is necessary to pack according to different requirements such as mixed colors and mixed codes, single color and single code, etc. to ensure that the quantity is accurate."
+    },
+    {
+        "instruction": "What details should be listed in the production plan?",
+        "input": "",
+        "output": "The production plan needs to list the daily progress in detail, including cutting progress, production progress, completion quantity, etc."
+    },
+    {
+        "instruction": "What is the role of recording and summarizing daily work content?",
+        "input": "",
+        "output": "Recording and summarizing work content every day helps to formulate the production plan for the next day and report progress to ensure that production proceeds as planned."
+    },
+    {
+        "instruction": "What basic principles should be followed when making patterns?",
+        "input": "",
+        "output": "Pattern making must conform to the size chart and take into account the shrinkage of the fabric to ensure that the size of the garment is accurate after cutting."
+    },
+    {
+        "instruction": "What are the special requirements for different sizes of the same style when laying out?",
+        "input": "",
+        "output": "Different sizes of the same style require adjustment of the laying method to optimize the fabric utilization rate and ensure that different sizes of garments can get the right pieces."
+    },
+    {
+        "instruction": "What follow-up processing is required for the pieces after cutting?",
+        "input": "",
+        "output": "After cutting, all pieces must be numbered, marked, and checked for matching to ensure that the pieces can correctly correspond to each part of the garment and there are no omissions or errors."
+    },
+    {
+        "instruction": "What information should be included on the outer box label to ensure its legibility?",
+        "input": "",
+        "output": "The outer box label must be legible and include product information, customer number, shipping destination, etc."
+    },
+    {
+        "instruction": "After production is completed, what should the company do to achieve continuous improvement?",
+        "input": "",
+        "output": "After each production is completed, the company needs to summarize and analyze the process improvement points."
+    },
+    {
+        "instruction": "What steps should be taken before a new process is introduced into production to ensure stability?",
+        "input": "",
+        "output": "When a new process is introduced, a small batch trial production is required to ensure stability before large-scale production."
+    },
+    {
+        "instruction": "What is the impact of optimizing assembly line operations on production efficiency?",
+        "input": "",
+        "output": "Optimizing assembly line operations can reduce unnecessary intermediate links, thereby improving production efficiency."
+    },
+    {
+        "instruction": "How can companies improve environmental awareness during the production process?",
+        "input": "",
+        "output": "Companies can improve environmental awareness by reducing material waste in production and improving fabric utilization."
+    },
+    {
+        "instruction": "How does the use of digital management systems help production progress?",
+        "input": "",
+        "output": "The use of digital management systems can track production progress in real time and improve delivery accuracy."
+    },
+    {
+        "instruction": "What role does clothing pattern making play in the clothing design process?",
+        "input": "",
+        "output": "Clothing pattern making is the core link of clothing design, connecting style design and craftsmanship."
+    },
+    {
+        "instruction": "What are the main aspects of clothing design?",
+        "input": "",
+        "output": "Clothing design mainly includes style design (appearance), structural design (plate making), and process design (sewing)."
+    },
+    {
+        "instruction": "What are the bases for clothing specification design?",
+        "input": "",
+        "output": "The bases for clothing specification design include customer needs, fabric characteristics, clothing structure, market trends and relevant standards."
+    },
+    {
+        "instruction": "What are the important factors to consider in the structural design of knitted garments?",
+        "input": "",
+        "output": "The structural design of knitted garments should consider sewing loss, process shrinkage, fabric droop, stretch expansion and other factors."
+    },
+    {
+        "instruction": "What are the main steps in style design?",
+        "input": "",
+        "output": "Style design includes drawing renderings, style analysis, selecting main and auxiliary materials, and drawing style drawings."
+    },
+    {
+        "instruction": "How to determine the size of clothing?",
+        "input": "",
+        "output": "To determine the size, you need to analyze the style, select the measurement area, and draw a size table."
+    },
+    {
+        "instruction": "What are the key steps in the sample design process?",
+        "input": "",
+        "output": "Sample design requires determining process shrinkage, sewing loss, calculating drawing dimensions, structural drawing, and sample trial production."
+    },
+    {
+        "instruction": "What does sewing process design mainly involve?",
+        "input": "",
+        "output": "Sewing process design involves stitch type, thread selection, equipment model and process flow arrangement."
+    },
+    {
+        "instruction": "For knitted garments, what characteristics should be considered when selecting the process and pattern design?",
+        "input": "",
+        "output": "Knitted garments need to choose the appropriate process and pattern design based on the stretch characteristics."
+    },
+    {
+        "instruction": "What should be taken into account when calculating the shoulder width, cuff width, sleeve length and other dimensions?",
+        "input": "",
+        "output": "When calculating these dimensions, seam loss and fabric shrinkage need to be considered to ensure the accuracy of the final dimensions."
+    },
+    {
+        "instruction": "What are the steps of pattern drawing?",
+        "input": "",
+        "output": "The steps of pattern drawing include determining the main pattern rectangular frame, marking key dimensions such as shoulder width, chest width, length, adjusting the shoulder slope, armhole, neckline shape, and calculating the stitching line and seam loss."
+    },
+    {
+        "instruction": "Why do we need to test and modify repeatedly during the sample production process?",
+        "input": "",
+        "output": "Sample production needs to be tested and modified repeatedly to ensure the stability of the final product and avoid production delays and cost increases caused by pattern problems."
+    },
+    {
+        "instruction": "What role does sample trial production play in sample adjustment?",
+        "input": "",
+        "output": "Sample trial production is a key link in sample adjustment. By testing the pattern, sewing effect and fabric adaptability, problems in sample design can be discovered and corrected in a timely manner."
+    },
+    {
+        "instruction": "What important information should be marked on the sample?",
+        "input": "",
+        "output": "The sample must be clearly marked with information such as model number, specification, strand direction, splicing mark, etc., to facilitate identification and operation during the production process."
+    },
+    {
+        "instruction": "What is the basis for selecting the cutting method?",
+        "input": "",
+        "output": "The cutting methods include one-way, two-way, cross cutting, etc., which need to be selected according to the characteristics of the fabric to ensure cutting efficiency and cut piece quality."
+    },
+    {
+        "instruction": "What steps does the ironing process usually include?",
+        "input": "",
+        "output": "The ironing process usually includes initial ironing, shaping, and final shaping. These steps work together to ensure the stability and beauty of the garment pattern."
+    },
+    {
+        "instruction": "What is the main process flow of garment production?",
+        "input": "",
+        "output": "The main process flow of garment production includes: inspection of incoming fabrics and accessories → technical preparation → pattern making → trial sample → sealing sample → making process documents → cutting → sewing → confirming the first piece (first wash tank) → buttonhole sewing → ironing → garment inspection → packaging → warehousing and shipment."
+    },
+    {
+        "instruction": "What does technical preparation include?",
+        "input": "",
+        "output": "Technical preparation includes making cardboard and technical process records, arranging sample production, reviewing customer-supplied process sheets, formulating process sheets and samples, making pre-production versions, etc."
+    },
+    {
+        "instruction": "What are the requirements for sample production?",
+        "input": "",
+        "output": "Sample production requires accurate size and complete specifications, indicating the clothing style number, part, specification, thread direction and quality requirements, and a sample composite stamp is affixed to the relevant splicing points."
+    },
+    {
+        "instruction": "What are the preparations before cutting?",
+        "input": "",
+        "output": "Before cutting, you need to draw a layout and test the shrinkage rate of the fabric to ensure the accuracy and rationality of the cutting."
+    },
+    {
+        "instruction": "What does garment inspection include?",
+        "input": "",
+        "output": "Garment inspection includes inspection of style, size, stitching, alignment of stripes, fabric threads and defects, color difference, ironing effect, firmness of adhesive interlining, thread trimming, integrity of garment accessories, label consistency, overall shape of garment and packaging."
+    },
+    {
+        "instruction": "What is clothing pattern making?",
+        "input": "",
+        "output": "Clothing pattern making is a part of clothing design. It refers to the combination of clothing style design requirements and human body shape, specifications and dimensions, sewing technology, etc. to form various samples for cutting, also known as paper patterns."
+    },
+    {
+        "instruction": "What are the main parts of clothing design?",
+        "input": "",
+        "output": "Clothing design includes style design, structural design and process design."
+    },
+    {
+        "instruction": "What is the main basis for clothing specification design?",
+        "input": "",
+        "output": "The basis for clothing specification design is customer requirements, the characteristics of knitted fabrics, clothing style structure, market trends and relevant standards."
+    },
+    {
+        "instruction": "What are the characteristics of knitted garment structure design?",
+        "input": "",
+        "output": "The characteristics of knitted garment structure design include simple structure line expression, small relaxation of circumference, and specification size as the main basis for designing samples."
+    },
+    {
+        "instruction": "What are the \"three accurate and one complete\" requirements when making plates?",
+        "input": "",
+        "output": "Accurate calculation of style, size, and details; complete surface, lining, lining, and process plates."
+    },
+    {
+        "instruction": "How to determine the sample specifications?",
+        "input": "",
+        "output": "Sample specifications are usually calculated based on factors such as garment specifications, seam loss, process shrinkage, etc."
+    },
+    {
+        "instruction": "What is a negative sample?",
+        "input": "",
+        "output": "A negative sample is a method used to simplify the sample quantity by reducing the sample quantity by subtracting the allowance of certain parts."
+    },
+    {
+        "instruction": "What is the purpose of sewing process analysis?",
+        "input": "",
+        "output": "The purpose of sewing process analysis is to clarify the content, sequence, time and tools and equipment required for product processing procedures, so as to effectively utilize labor and equipment and improve production efficiency."
+    },
+    {
+        "instruction": "What are the basic requirements for nesting?",
+        "input": "",
+        "output": "The basic requirements for nesting include ensuring the accuracy of garment specifications, paying attention to the directionality of grey fabric texture and pattern, improving the utilization rate of grey fabric, and optimizing the best nesting plan."
+    },
+    {
+        "instruction": "Why is the layout method for knitted garments more complicated?",
+        "input": "",
+        "output": "Because knitted garments have many parts and they vary with the changes in clothing styles, it is necessary to comprehensively consider the characteristics of the sample and the width of the grey fabric to determine the layout method."
+    },
+    {
+        "instruction": "How to determine the width of the grey cloth?",
+        "input": "",
+        "output": "The width of the grey cloth is mainly estimated and determined based on the type of garment pieces, the characteristics of the sample and the specifications of the corresponding garment parts."
+    },
+    {
+        "instruction": "What is a specification algorithm?",
+        "input": "",
+        "output": "A specification algorithm is a method of determining the garment specifications based on the requirements of the style structure and the body shape of the wearer, and using the garment specifications as the main basis for sample specification calculation and design."
+    },
+    {
+        "instruction": "How to reduce the loss when laying out?",
+        "input": "",
+        "output": "You can reduce the loss and improve the utilization rate of grey fabric by reasonably selecting the width of grey fabric and correctly selecting the laying out method."
+    },
+    {
+        "instruction": "What is a small batch trial production?",
+        "input": "",
+        "output": "A small batch trial production refers to making a small number of clothing samples according to the designed sample so as to verify and adjust the sample and process before actual production."
+    },
+    {
+        "instruction": "What is clothing terminology?",
+        "input": "",
+        "output": "Clothing terminology refers to clothing terms used to describe clothing types, parts, production processes, and quality requirements of finished products."
+    },
+    {
+        "instruction": "Please list several upper parts in the terminology of finished garment parts.",
+        "input": "",
+        "output": "Upper parts include placket, lining, lapel, small shoulder, thread seam, bottom hem, lapel, hem fillet, dart, etc."
+    },
+    {
+        "instruction": "What are the basic steps of treadmill training?",
+        "input": "",
+        "output": "The basic steps of treadmill training include sitting upright, putting your right foot on the foot pedal to practice lifting and lowering the presser foot, practicing stabilizing the machine (without installing the needle or threading the sewing thread), and practicing feeding the material in reverse and forward directions."
+    },
+    {
+        "instruction": "What needs to be done after the pocket position is determined in the bag opening process?",
+        "input": "",
+        "output": "After the pocket position is determined in the bag opening process, the lower pocket cloth needs to be fixed on the reverse side of the back trouser piece, usually by extending the lower pocket cloth into the upper pocket cloth mouth line for a certain distance and gluing and ironing it."
+    },
+    {
+        "instruction": "When sewing trousers, what are the steps to make a waistband?",
+        "input": "",
+        "output": "When sewing trousers, the steps to make a waistband include overlapping the waist surface with the front of the waist lining, covering the lower waist lining, sewing the seams to fix, turning over and ironing, sewing the stopper, and making the upper waist align."
+    },
+    {
+        "instruction": "What is a split seam?",
+        "input": "",
+        "output": "A split seam is when two layers of garment pieces are sewn together flat, and the raw seams are separated to the sides to join the garment pieces together."
+    },
+    {
+        "instruction": "What are clothing-specific symbols?",
+        "input": "",
+        "output": "Clothing-specific symbols are concise and clear symbols that replace Chinese characters to explain the various requirements in the clothing production process, which is convenient for production and international communication."
+    },
+    {
+        "instruction": "What are hand sewing symbols?",
+        "input": "",
+        "output": "Hand sewing symbols are special symbols used to indicate hand sewing operation methods and requirements, such as flat seams, overlock, etc."
+    },
+    {
+        "instruction": "How to sew beautiful suit cuffs?",
+        "input": "",
+        "output": "The key to sewing beautiful suit cuffs is to keep the cuffs flat, choose the right stitches and seams, and iron them in time."
+    },
+    {
+        "instruction": "How to avoid fabric deformation during sewing?",
+        "input": "",
+        "output": "Ways to avoid fabric deformation include choosing the right sewing machine and needle method, keeping the fabric flat and stable, and ironing it at the right time."
+    },
+    {
+        "instruction": "What is the process of ironing before sewing called?",
+        "input": "",
+        "output": "The high-end process before sewing is called \"push, return, and pull\", which is used to change the fiber stretchability and warp and weft density of the fabric."
+    },
+    {
+        "instruction": "What is the role of ironing during sewing?",
+        "input": "",
+        "output": "Ironing during sewing can assist the operation and improve the quality of sewing."
+    },
+    {
+        "instruction": "What is the main purpose of pressing?",
+        "input": "",
+        "output": "The main purpose of pressing is to make the garments straight, neat and beautiful through heat setting."
+    },
+    {
+        "instruction": "List several commonly used ironing tools?",
+        "input": "",
+        "output": "Commonly used ironing tools include electric irons, watering cans, ironing cloths, mats, iron stools, cloth buns, long ironing stools and bow-shaped ironing boards."
+    },
+    {
+        "instruction": "What are the basics of ironing?",
+        "input": "",
+        "output": "The basics of ironing include the correct control of ironing temperature, the application of various parts of the iron, and the basic operation methods of ironing."
+    },
+    {
+        "instruction": "What is the main function of ironing?",
+        "input": "",
+        "output": "The main function of ironing is to stretch the fabric of a certain part of the garment."
+    },
+    {
+        "instruction": "What is the main function of push ironing?",
+        "input": "",
+        "output": "The main function of push ironing is to push the fat after ironing to the predetermined direction."
+    },
+    {
+        "instruction": "What is the main purpose of ironing?",
+        "input": "",
+        "output": "The main purpose of ironing is to remove water splashes, shine, brand marks or fuzz from the surface of the fabric."
+    },
+    {
+        "instruction": "Why is it better to use a steam iron when doing manual hot stamping?",
+        "input": "",
+        "output": "A steam iron conducts heat quickly, so hot stamping is more complete, comprehensive, and thorough, and the adhesive force is stronger."
+    },
+    {
+        "instruction": "Why does the next step need to be carried out after the lining is completely cooled after bonding?",
+        "input": "",
+        "output": "Before it is completely cooled, the hot melt adhesive is in a molten state. Operation activities may cause the adhesive lining to separate from the garment pieces, resulting in debonding."
+    },
+    {
+        "instruction": "What is the direction of the iron when gluing the lining?",
+        "input": "",
+        "output": "The iron can be moved from one end to the other. For large-area linings, start from the middle and work your way out to the sides."
+    },
+    {
+        "instruction": "How to avoid stretching or bunching of fabrics when ironing?",
+        "input": "",
+        "output": "When ironing, move the iron along the warp direction of the fabric, apply force evenly, and do not push or pull the fabric randomly."
+    },
+    {
+        "instruction": "How to protect the fabric during ironing?",
+        "input": "",
+        "output": "Use ironing cloth, padding and other tools to cover or pad the fabric to protect it from high temperature damage."
+    },
+    {
+        "instruction": "How to avoid leaving iron marks when ironing?",
+        "input": "",
+        "output": "Avoid leaving the iron on the fabric for a long time or pressing hard on a certain part, and move the iron evenly and forcefully."
+    },
+    {
+        "instruction": "How to keep the tabletop flat during ironing?",
+        "input": "",
+        "output": "Use a mat to cover the tabletop and ensure that it is flat and free of debris to avoid affecting the ironing effect."
+    },
+    {
+        "instruction": "How can you avoid getting burned while ironing?",
+        "input": "",
+        "output": "Be careful when using ironing tools, avoid direct contact with hot parts, and wear protective gloves and other protective measures."
+    },
+    {
+        "instruction": "Why do you need to use both hands when ironing?",
+        "input": "",
+        "output": "Using both hands can better control the direction and strength of movement of clothes and iron, and improve the ironing effect."
+    },
+    {
+        "instruction": "How to solve problems encountered during ironing?",
+        "input": "",
+        "output": "When you encounter problems, you can consult relevant information, consult professionals or practice to find solutions."
+    },
+    {
+        "instruction": "How to stay focused during ironing?",
+        "input": "",
+        "output": "Stay focused and patient during ironing to avoid distractions or impatience that may lead to poor ironing results or safety issues."
+    },
+    {
+        "instruction": "How should I arrange my clothes after ironing?",
+        "input": "",
+        "output": "After ironing, clothes should be arranged flat and stored properly to avoid wrinkles or deformation again."
+    },
+    {
+        "instruction": "What should I do if the needle is bent, blunt or worn?",
+        "input": "",
+        "output": "Replace the needle."
+    },
+    {
+        "instruction": "How to solve the problem of incorrect needle installation?",
+        "input": "",
+        "output": "Reinstall the needle in the correct way."
+    },
+    {
+        "instruction": "What should I do if the hook thread timing is not correct or the gap between the needles is too large?",
+        "input": "",
+        "output": "Re-adjust the needle according to the correct position of the needle and the hook tip."
+    },
+    {
+        "instruction": "What should I do if the needle travels at different heights?",
+        "input": "",
+        "output": "Readjust the needle to a coordinated position."
+    },
+    {
+        "instruction": "How to solve the problem that the needle plate groove is too wide?",
+        "input": "",
+        "output": "Replace the needle plate groove."
+    },
+    {
+        "instruction": "What should I do if the gap between the needle bar and the upper and lower sleeves is too large?",
+        "input": "",
+        "output": "Replace the sleeves that are too worn."
+    },
+    {
+        "instruction": "What should I do if the threading sequence is incorrect and causes the cross section?",
+        "input": "",
+        "output": "Rethread in the correct sequence."
+    },
+    {
+        "instruction": "What should I do if the upper thread is too tight?",
+        "input": "",
+        "output": "Slowly loosen the thread clamp screw and adjust the tension of the lower thread accordingly."
+    },
+    {
+        "instruction": "How to solve the problem of improper needle selection?",
+        "input": "",
+        "output": "Replace the needle corresponding to the sewing thread and sewing material."
+    },
+    {
+        "instruction": "What should I do if the needle is bent and causes a cross section?",
+        "input": "",
+        "output": "Replace the needle."
+    },
+    {
+        "instruction": "How to deal with the needle hitting the presser foot?",
+        "input": "",
+        "output": "Adjust the presser foot position."
+    },
+    {
+        "instruction": "How to deal with noodle thread that is moldy or too brittle?",
+        "input": "",
+        "output": "Replace the thread."
+    },
+    {
+        "instruction": "What should I do if the hook hooks the thread too fast or too slow, resulting in a broken thread?",
+        "input": "",
+        "output": "Adjust the hook hook time."
+    },
+    {
+        "instruction": "What should I do if the bobbin thread is overwound or unevenly wound?",
+        "input": "",
+        "output": "Rewind the bobbin thread."
+    },
+    {
+        "instruction": "What should I do if the bottom line is moldy?",
+        "input": "",
+        "output": "Replace the thread."
+    },
+    {
+        "instruction": "What should I do if the lower thread is too tight?",
+        "input": "",
+        "output": "Loosen the shuttle screw appropriately and adjust the upper thread accordingly."
+    },
+    {
+        "instruction": "What should I do if the thread entry of the bobbin case is sharp or rough?",
+        "input": "",
+        "output": "Use an oilstone or fine sandpaper to polish and remove the sharp corners."
+    },
+    {
+        "instruction": "What should I do if the feed dog is too low and the bottom thread is broken?",
+        "input": "",
+        "output": "Adjust the feed dog position properly."
+    },
+    {
+        "instruction": "What should I do if the motor belt is too loose or too tight and the machine does not work properly?",
+        "input": "",
+        "output": "Adjust the belt length."
+    },
+    {
+        "instruction": "What should I do if the upper and lower threads of the flatbed sewing machine are sometimes tight and sometimes loose?",
+        "input": "",
+        "output": "Check whether the thread on the right side of the thread take-up lever is hung on the thread hook, adjust the tightness of the upper and lower threads, slow down the cloth feeding time, replace the pagoda spring of the thread clamp, etc."
+    },
+    {
+        "instruction": "What is the reason for the flat car thread breakage?",
+        "input": "",
+        "output": "It may be due to poor thread quality, improper needle selection, burrs at the thread passing point, etc., which need to be checked and handled one by one."
+    },
+    {
+        "instruction": "What should I do if the high-strength filament thread splits when sewing leather products?",
+        "input": "",
+        "output": "Use right-twisted thread, blade-shaped needle, change to a larger needle, change to a larger needle plate hole, slow down the teeth, reduce the tension of the needle and thread, and lubricate the sewing thread with silicone oil."
+    },
+    {
+        "instruction": "What should I do if the stitches skip when sewing summer underwear fabrics?",
+        "input": "",
+        "output": "Lower the needle bar, delay the thread hooking time, control the movement of the needle bar and the lower shaft, and reduce the gap between the shuttle tip and the side of the needle."
+    },
+    {
+        "instruction": "What should I do if the automatic thread trimming of the computerized flat car loses control?",
+        "input": "",
+        "output": "Check the pedal sensor, control panel, detector distance, thread trimming cam position, etc."
+    },
+    {
+        "instruction": "What should I do if the top thread breaks when sewing knitted underwear?",
+        "input": "",
+        "output": "Move the feed dog position, cut off part of the needle plate and feed dog, adjust the presser foot, etc."
+    },
+    {
+        "instruction": "What should I do if the flat car loses the bottom line?",
+        "input": "",
+        "output": "Adjust the synchronization, thread taking-up spring, positioning hook, etc."
+    },
+    {
+        "instruction": "What is the cause of thread unravelling?",
+        "input": "",
+        "output": "Thread unravelling is usually caused by not hitting the needle back or serious thread floating when starting and ending the stitches. This can be solved by starting and ending the stitches with heavy needles and adjusting the thread pressure."
+    },
+    {
+        "instruction": "How to avoid missed stitches during sewing?",
+        "input": "",
+        "output": "Missed stitches are caused by carelessness or undercutting during sewing. You can avoid this by increasing your concentration and changing the stop presser foot."
+    },
+    {
+        "instruction": "In which links does the hair leakage problem usually occur?",
+        "input": "",
+        "output": "Hair leakage usually occurs when the overlock machine fails, the overlock is missed, or the refraction hair edges are not tight. It can be solved by adjusting the overlock machine and replacing the cutter."
+    },
+    {
+        "instruction": "Why can't you use a fountain pen or ballpoint pen when cutting?",
+        "input": "",
+        "output": "Because using a fountain pen or ballpoint pen will leave marks on the cut pieces, you should use a small hot iron, a color-erasable pen or a clamp instead."
+    },
+    {
+        "instruction": "How to prevent oil stains caused by oil leakage from the machine during sewing?",
+        "input": "",
+        "output": "The machine needs to be maintained regularly to ensure that it does not leak oil, and eating on the production line is prohibited and washing hands frequently is prohibited."
+    },
+    {
+        "instruction": "How to prevent dirt in the production environment?",
+        "input": "",
+        "output": "Keep the production environment clean, control the temperature of the production workshop, prohibit the stacking of semi-finished products on the ground, use clean sewing transfer carts, and require employees to wash their hands frequently."
+    },
+    {
+        "instruction": "What is a dead thread and how to solve it?",
+        "input": "",
+        "output": "Dead thread is caused by incomplete trimming or the machine does not trim the thread automatically. It can be solved by trimming the thread and replacing the automatic trimming machine."
+    },
+    {
+        "instruction": "How to prevent the trimmed threads from sticking to the garment?",
+        "input": "",
+        "output": "The trimmed threads need to be piled together and the live threads should be cleaned with a hair vacuum."
+    },
+    {
+        "instruction": "Why should we arrange the pattern according to the requirements?",
+        "input": "",
+        "output": "Failure to arrange the pattern according to the requirements will lead to the problem of reverse and straight wool. We need to arrange the pattern according to the process, divide the pattern into packages according to the numbers, and sew and produce by package."
+    },
+    {
+        "instruction": "How to prevent the problem of reverse fabric due to the shearing machine and sewing workers not being able to identify the front and back sides?",
+        "input": "",
+        "output": "You need to paste the correct color card and produce according to the color card."
+    },
+    {
+        "instruction": "How to solve the problem of the cut pieces being frizzy?",
+        "input": "",
+        "output": "The cut pieces being frizzy is caused by errors in cutting and marking, so you need to pay attention to correct marking."
+    },
+    {
+        "instruction": "How to avoid the problem of fabric defects exceeding the tolerance?",
+        "input": "",
+        "output": "When there are many fabric defects, the defective fabrics need to be removed during the layout and the pieces need to be inspected."
+    },
+    {
+        "instruction": "What usually causes inaccurate button positions?",
+        "input": "",
+        "output": "Inaccurate button positions are usually caused by errors such as uneven button plates or uneven button crotches. You need to position the button plates correctly and check the button positions."
+    },
+    {
+        "instruction": "How to prevent the buttonhole from being crooked due to careless operation of the buttonhole worker?",
+        "input": "",
+        "output": "The buttonhole worker needs to put the garment pieces straight to ensure that they are horizontal and vertical."
+    },
+    {
+        "instruction": "What problems will poor fabric quality cause?",
+        "input": "",
+        "output": "Poor fabric quality will lead to color difference, damage and other problems, which require matching numbers, color difference prevention, and sewing and matching numbers."
+    },
+    {
+        "instruction": "How to avoid the problem of inconsistent specifications of clothes and bags?",
+        "input": "",
+        "output": "Packers need to take their work seriously and pack the clothes according to the style and size."
+    },
+    {
+        "instruction": "How to prevent the problem of missing work and missing parts caused by the negligence of sewing workers?",
+        "input": "",
+        "output": "Sewing workers need to take their work seriously, check the tag number, and strengthen their inspection responsibilities."
+    },
+    {
+        "instruction": "Which link usually causes the outer box mark to be printed incorrectly?",
+        "input": "",
+        "output": "The outer box mark is usually printed incorrectly because the mark provided by the foreign trade department is wrong or the carton manufacturer makes mistakes in identifying English. It is necessary to provide the correct box mark and change the carton manufacturer."
+    },
+    {
+        "instruction": "What is the phenomenon of stop mouth spitting during sewing, and how to solve it?",
+        "input": "",
+        "output": "Stop mouth spitting is caused by poor sewing technology or failure to spit the stop mouth according to process requirements. It can be solved by improving sewing technology and loosening the surface layer."
+    },
+    {
+        "instruction": "What are the reasons and solutions for the non-parallel double threads?",
+        "input": "",
+        "output": "The non-parallel double threads are caused by poor skills or careless operation, which can be solved by improving sewing skills and replacing the double needle machine with the corresponding needle position."
+    },
+    {
+        "instruction": "In which details does the problem of being out of square usually occur, and how can it be avoided?",
+        "input": "",
+        "output": "The problem of being out of square usually occurs in the bag cover, bag bottom, hem, square collar and other parts. If they are not sewn at 90 degrees, they can be avoided by using a clamp for production and pressing 90-degree sandpaper on them."
+    },
+    {
+        "instruction": "How to solve the problem of imprinting?",
+        "input": "",
+        "output": "The imprinting problem is usually caused by not cutting off the imprinting of the cloth when cutting. The imprinting cloth needs to be cut off when cutting."
+    },
+    {
+        "instruction": "What causes watermarks and how can we prevent them?",
+        "input": "",
+        "output": "Watermarks are caused by water staining the sewing parts of colored fabrics. Tea, juice, etc. must be prevented from entering the production line."
+    },
+    {
+        "instruction": "What is the Aurora phenomenon and how to avoid it?",
+        "input": "",
+        "output": "The Aurora phenomenon is caused by not using steam ironing or using an electric iron without a damp cloth, which causes localized light. You need to use a steam iron, put on an iron cover, or use a cloth to iron to avoid it."
+    },
+    {
+        "instruction": "What is the difference between dead thread ends and live thread ends?",
+        "input": "",
+        "output": "Dead thread ends are left behind when the trimming is not done cleanly and the machine does not trim the thread automatically; live thread ends are the thread ends that stick to the garment after trimming and are not removed."
+    },
+    {
+        "instruction": "How to effectively remove live threads from garments?",
+        "input": "",
+        "output": "You can trim the threads and pile them together, and use a hair vacuum to clean the live threads on garments."
+    },
+    {
+        "instruction": "Why do we need to correctly identify the front and back of fabrics?",
+        "input": "",
+        "output": "Because shears and sewing workers cannot identify the front and back, which will lead to problems with the wrong fabric, affecting the appearance and quality of the garment."
+    },
+    {
+        "instruction": "How to effectively avoid the problem of fabric defects?",
+        "input": "",
+        "output": "It is necessary to remove the defective fabrics during the layout and conduct piece inspection to ensure the quality of the cut fabrics."
+    },
+    {
+        "instruction": "How does the color difference problem usually occur and how to solve it?",
+        "input": "",
+        "output": "The color difference problem is usually caused by poor fabric quality, overlapping during cutting, numbering errors or wrong numbering during sewing. It is necessary to correct the numbering, lay out the materials according to the color difference prevention method, and sew the correct numbering during production."
+    },
+    {
+        "instruction": "At which stages does the problem of breakage usually occur, and how can it be prevented?",
+        "input": "",
+        "output": "The problem of breakage usually occurs during the stages of cutting and trimming thread ends, reworking and removing thread ends, and washing. It is necessary to replace round-head scissors and control the washing time to prevent the problem."
+    },
+    {
+        "instruction": "What problems will occur if the specifications of clothes and bags do not match? How to solve it?",
+        "input": "",
+        "output": "If the specifications of clothes and bags do not match, the clothes purchased by consumers will not meet their expectations. Packers need to take their work seriously and pack the right styles and sizes."
+    },
+    {
+        "instruction": "What impact will missing parts have on the integrity of clothing? How to prevent it?",
+        "input": "",
+        "output": "Missing parts will cause the clothing to lack necessary decorations or parts, affecting the overall appearance and wearing experience. Sewing workers need to take their work seriously, check the tag number, and strengthen their inspection responsibilities."
+    },
+    {
+        "instruction": "What is fashion design?",
+        "input": "",
+        "output": "Fashion design is a process of artistic creation, a unity of artistic conception and artistic expression, involving multiple links such as conception, data collection, and determination of design plans."
+    },
+    {
+        "instruction": "How important is color in fashion design?",
+        "input": "",
+        "output": "Color plays a vital role in fashion design because people are more sensitive to color than to shape."
+    },
+    {
+        "instruction": "What is a popular color?",
+        "input": "",
+        "output": "A popular color is a color that is loved and widely accepted by consumers in a certain period and region."
+    },
+    {
+        "instruction": "What are the characteristics of soft fabrics?",
+        "input": "",
+        "output": "Soft fabrics are generally thinner, have good drape, and smooth lines."
+    },
+    {
+        "instruction": "What kind of clothing is suitable for stiff and cool fabrics?",
+        "input": "",
+        "output": "Stiff and cool fabrics have clear lines and a sense of volume, and are suitable for designing suits, sets and other clothing that require precise shapes."
+    },
+    {
+        "instruction": "What are the steps in the general process of fashion design?",
+        "input": "",
+        "output": "The general process of fashion design includes conception, data collection, design plan determination, and design drawing."
+    },
+    {
+        "instruction": "What is a clothing design drawing?",
+        "input": "",
+        "output": "A clothing design drawing includes clothing renderings, plan structure drawings, and related text descriptions."
+    },
+    {
+        "instruction": "What are the characteristics of clothing renderings?",
+        "input": "",
+        "output": "Clothing renderings use realistic methods to accurately express the effect of human body wearing clothes, and pay attention to the description of details."
+    },
+    {
+        "instruction": "What is a plan view?",
+        "input": "",
+        "output": "A plan view shows the flat shape of a garment, including the detailed proportions and structural lines of each part."
+    },
+    {
+        "instruction": "What are the characteristics of modern garment design?",
+        "input": "",
+        "output": "Modern garment design adopts new organizational management methods and uses computer technology to improve production efficiency."
+    },
+    {
+        "instruction": "What is the function of the automatic push-and-drop system?",
+        "input": "",
+        "output": "The automatic push-and-drop system can assist the sample drawing personnel in size scaling, sample inspection, plate arrangement and material arrangement, thus improving production efficiency."
+    },
+    {
+        "instruction": "How does the computer automatic cutting system work?",
+        "input": "",
+        "output": "The computer automatic cutting system automatically cuts the pieces accurately according to the layout completed by the computer through the cutting knife controlled by a small computer."
+    },
+    {
+        "instruction": "What are the sources of inspiration for fashion design?",
+        "input": "",
+        "output": "The sources of inspiration for fashion design include nature, historical sites, literary works, etc."
+    },
+    {
+        "instruction": "What skills does a fashion designer need?",
+        "input": "",
+        "output": "A fashion designer needs to have drawing skills, creative thinking, market analysis skills, etc."
+    },
+    {
+        "instruction": "What is clothing pattern design?",
+        "input": "",
+        "output": "Clothing pattern design refers to designing suitable clothing cutting drawings and samples based on the wearer's body shape and wearing needs."
+    },
+    {
+        "instruction": "What does the inner shape design of clothing include?",
+        "input": "",
+        "output": "The inner shape design of clothing includes structural lines, darts, pleats, clipping lines, collar type, sleeve type and component design, etc."
+    },
+    {
+        "instruction": "What is the difference between similar color matching and similar color matching?",
+        "input": "",
+        "output": "Similar color matching is the color matching within the 90-degree X range on the color wheel. It has a more varied color sense and a wider range of applications than similar color matching."
+    },
+    {
+        "instruction": "How are popular colors formed?",
+        "input": "",
+        "output": "Popular colors are formed by color experts through pre-announcement and promotion based on the latest colors in the consumer market."
+    },
+    {
+        "instruction": "What are the characteristics of soft fabrics?",
+        "input": "",
+        "output": "Soft fabrics are thin and have good drape, smooth lines, and are often used in designs that reflect the beautiful curves of the human body."
+    },
+    {
+        "instruction": "What clothing designs are suitable for stiff fabrics?",
+        "input": "",
+        "output": "Stiff fabrics have clear lines and a sense of volume, and are suitable for designs that require precise shapes, such as suits and suits."
+    },
+    {
+        "instruction": "What are the key points in designing heavy fabrics?",
+        "input": "",
+        "output": "Heavy fabrics are thick and stiff, so too many pleats and piles should not be used in the design. A-type and H-type shapes are the most appropriate."
+    },
+    {
+        "instruction": "How do transparent fabrics show their characteristics?",
+        "input": "",
+        "output": "Transparent fabrics are thin and transparent, and often use natural and full lines and varied design shapes to show their elegant and mysterious artistic effects."
+    },
+    {
+        "instruction": "What is the role of accessories in the overall beauty of clothing?",
+        "input": "",
+        "output": "Accessories play the role of setting off, complementing, and finishing touches in the overall beauty of clothing. Sometimes they can also become the main object of design, making plain clothing shine."
+    },
+    {
+        "instruction": "What is the general process of fashion design?",
+        "input": "",
+        "output": "Fashion design usually starts with an idea and concept, then data is collected and the design is determined, including the overall style, theme, shape, color, etc."
+    },
+    {
+        "instruction": "What are the sources of ideas for fashion design?",
+        "input": "",
+        "output": "The sources of ideas for fashion design are wide-ranging, including nature, historical sites, literature and art, ethnic customs, and everything else in social life."
+    },
+    {
+        "instruction": "What does a planar structure diagram include?",
+        "input": "",
+        "output": "A planar structure diagram includes the plane shape of the garment, the detailed proportions of each part, the internal structure design, decoration, etc., and is outlined in monochrome lines with smooth and neat lines."
+    },
+    {
+        "instruction": "What is the role of text description in clothing design?",
+        "input": "",
+        "output": "Text description is used in clothing design to fully and accurately express the effect of design concept, including design intention, theme, key points of craftsmanship, etc."
+    },
+    {
+        "instruction": "What systems does modern garment design include?",
+        "input": "",
+        "output": "Modern garment design includes clothing style design and color matching system, automatic pattern pushing and material laying system, computer automatic cutting system, etc."
+    },
+    {
+        "instruction": "What is the role of the clothing style design color matching system?",
+        "input": "",
+        "output": "The clothing style design color matching system is used to quickly draw design sketches, match and combine clothing styles and colors, and improve design efficiency and intuitive effects."
+    },
+    {
+        "instruction": "How does the computer automatic cutting system achieve automatic cutting?",
+        "input": "",
+        "output": "The computer automatic cutting system automatically and accurately cuts the pieces on the cutting bed through a cutting knife controlled by a small computer according to the layout completed by the computer."
+    },
+    {
+        "instruction": "What is a sample ?",
+        "input": "",
+        "output": "A sample is the first garment made according to a design drawing to confirm the design and craftsmanship."
+    },
+    {
+        "instruction": "What is mass production ?",
+        "input": "",
+        "output": "Mass production refers to the large-scale production of the same style of clothing after the sample is confirmed."
+    },
+    {
+        "instruction": "What is printing ?",
+        "input": "",
+        "output": "Printing is the process of printing patterns or text on fabrics through printing technology."
+    },
+    {
+        "instruction": "What is heat transfer ?",
+        "input": "",
+        "output": "Heat transfer is the process of transferring a pattern to fabric through heat pressure."
+    },
+    {
+        "instruction": "What is WRAP certification ?",
+        "input": "",
+        "output": "WRAP certification is a global responsible garment production certification used to assess factory compliance."
+    },
+    {
+        "instruction": "What is sample fee ?",
+        "input": "",
+        "output": "Sample fee is the cost of making sample garments, which is usually borne by the customer."
+    },
+    {
+        "instruction": "What is bulk goods ?",
+        "input": "",
+        "output": "Bulk goods refer to finished garments produced in batches."
+    },
+    {
+        "instruction": "What is tail stock ?",
+        "input": "",
+        "output": "Tail stock refers to the small amount of inventory left after production is completed."
+    },
+    {
+        "instruction": "What is a repeat order ?",
+        "input": "",
+        "output": "A repeat order is the production of the same style of clothing again based on an existing order."
+    },
+    {
+        "instruction": "What is a supplementary order ?",
+        "input": "",
+        "output": "A supplementary order is to produce additional clothing of the same style based on an existing order."
+    },
+    {
+        "instruction": "What is OEM ?",
+        "input": "",
+        "output": "OEM means having other factories produce clothing for you."
+    },
+    {
+        "instruction": "What is OEM ?",
+        "input": "",
+        "output": "OEM means producing clothing from another brand and putting that brand's label on it."
+    },
+    {
+        "instruction": "What is packaging ?",
+        "input": "",
+        "output": "Packaging refers to putting finished garments into plastic bags or cartons for transportation and sale."
+    },
+    {
+        "instruction": "What is a return ?",
+        "input": "",
+        "output": "A return is when a customer returns clothing to a supplier due to quality issues or other reasons."
+    },
+    {
+        "instruction": "The sewing machine feeds unevenly, resulting in inconsistent stitch lengths. What should I do?",
+        "input": "",
+        "output": "Check whether the feed dog is worn or blocked, and adjust the feed dog height to ensure that it works properly."
+    },
+    {
+        "instruction": "How to solve the problem of loose stitches during sewing?",
+        "input": "",
+        "output": "Adjust the tension of the upper and lower threads to ensure tight stitches."
+    },
+    {
+        "instruction": "The sewing machine has broken seams during sewing. What could be the cause?",
+        "input": "",
+        "output": "It could be due to excessive thread tension, blunt needles or thread quality issues."
+    },
+    {
+        "instruction": "What should I do if the fabric gets stuck during sewing?",
+        "input": "",
+        "output": "Check the feed dog and needle plate to make sure there are no foreign objects or damage, and adjust the feed dog height."
+    },
+    {
+        "instruction": "What should I do if the stitches on the sewing machine are uneven during sewing?",
+        "input": "",
+        "output": "Adjust the thread tension, check the matching of the needle and thread, and ensure even feeding."
+    },
+    {
+        "instruction": "What should I do if the stitches on the sewing machine are intermittent during sewing?",
+        "input": "",
+        "output": "Check the quality of the thread and adjust the thread tension to ensure smooth thread flow."
+    },
+    {
+        "instruction": "Why do pleats appear at the collar and shoulder seams when making a Tang suit?",
+        "input": "",
+        "output": "The shoulder seam pleats are not caused by the Tang suit, but by the shoulder seams not being made well."
+    },
+    {
+        "instruction": "How to determine the straightness of the collar in clothing pattern making?",
+        "input": "",
+        "output": "For conventional clothing, 0.23 times the chest circumference is used as the reference for the straightness of the collar, but tight-fitting tops and loose jackets need to be adjusted appropriately based on this."
+    },
+    {
+        "instruction": "What are the common problems when trying on women's tight fitting pants?",
+        "input": "",
+        "output": "Common problems include improper tailoring of the pants, which easily exposes flaws."
+    },
+    {
+        "instruction": "What are the common methods for making clothing patterns?",
+        "input": "",
+        "output": "Common clothing pattern making methods include addition and subtraction, proportional distribution, three-dimensional cutting, chest and short measurement, prototype method, basic sample method, D-type method, frame fitting method and computer pattern making."
+    },
+    {
+        "instruction": "What are the common pattern problems in trouser pattern making?",
+        "input": "",
+        "output": "Common problems include defects in trouser patterns, which need to be solved through corrections and corrections."
+    },
+    {
+        "instruction": "What are the common difficulties in learning clothing pattern making?",
+        "input": "",
+        "output": "Clothing pattern making is a technology. During the learning process, you may encounter difficulties in understanding and application, which requires dedicated research and practice."
+    },
+    {
+        "instruction": "How to ensure symmetry during the pattern making process?",
+        "input": "",
+        "output": "When drawing the sample, precise measurement and drawing are required to ensure symmetry between the left and right sides to avoid deviation."
+    },
+    {
+        "instruction": "How to deal with complex pattern alignment during pattern making?",
+        "input": "",
+        "output": "When making and cutting patterns, it is necessary to accurately calculate and arrange the position of the pattern to ensure accurate pattern alignment at the seams and improve the overall aesthetics of the garment."
+    },
+    {
+        "instruction": "After dyeing, the fabric has color spots and uneven color distribution. What are the possible reasons?",
+        "input": "",
+        "output": "Possible reasons include quality problems of the grey fabric, uneven distribution of dyes on the fabric, improper control of fixing conditions, etc."
+    },
+    {
+        "instruction": "What is the possible reason for the phenomenon of dye migration after dyeing?",
+        "input": "",
+        "output": "Possible reasons include excessive pressure absorption rate during pressure dyeing, too high dye concentration, too long storage time before drying after dyeing, too fast drying rate, etc."
+    },
+    {
+        "instruction": "What is the possible reason for the appearance of dyed streaks on the fabric after dyeing?",
+        "input": "",
+        "output": "The possible reason is the chemical properties of the chemical fibers used in the dyed fabric, which leads to different dyeing properties."
+    },
+    {
+        "instruction": "What is the possible reason for the shiny streaks on the fabric after dyeing?",
+        "input": "",
+        "output": "The possible reason is the physical properties of the chemical fibers used in the dyed fabric, which lead to different reflectivity, absorption, and transmittance of the fibers to light."
+    },
+    {
+        "instruction": "What are the possible reasons for the unqualified color fastness of the fabric after dyeing?",
+        "input": "",
+        "output": "Possible reasons include floating color on the fabric surface and the transfer of some colored fiber particles, the type of dye selected, improper dyeing process and post-treatment process, etc."
+    },
+    {
+        "instruction": "What is the possible reason for the phenomenon of dye migration after dyeing?",
+        "input": "",
+        "output": "Possible reasons include excessive pressure absorption rate during pressure dyeing, too high dye concentration, too long storage time before drying after dyeing, too fast drying rate, etc."
+    },
+    {
+        "instruction": "What is the possible reason for the appearance of dyed streaks on the fabric after dyeing?",
+        "input": "",
+        "output": "The possible reason is the chemical properties of the chemical fibers used in the dyed fabric, which leads to different dyeing properties."
+    },
+    {
+        "instruction": "What is the possible reason for the shiny streaks on the fabric after dyeing?",
+        "input": "",
+        "output": "The possible reason is the physical properties of the chemical fibers used in the dyed fabric, which lead to different reflectivity, absorption, and permeability of the fibers to light."
+    },
+     {
+        "instruction": "What are the main aspects to focus on when inspecting fabrics?",
+        "input": "",
+        "output": "Fabric inspection mainly includes inspection of appearance quality (such as damage, stains, weaving defects, color difference, etc.) and internal quality (such as shrinkage, color fastness, weight)."
+    },
+    {
+        "instruction": "What should be paid attention to when cutting fabrics?",
+        "input": "",
+        "output": "When cutting fabrics, you need to pay attention to aligning the stripes, avoiding color differences, controlling the error (±0.2cm), the depth of the cutter should not exceed 0.6cm, and for fabrics with strong elasticity, you need to let the fabric shrink naturally in advance."
+    },
+    {
+        "instruction": "What is the importance of ironing in garment production?",
+        "input": "",
+        "output": "Ironing is one of the key processes in garment shaping. Following the principle of \"30% sewing and 70% ironing\" can ensure that the garment has a smooth and beautiful appearance and avoid quality problems such as splashes, gloss, hemp marks, and scorching."
+    },
+    {
+        "instruction": "What are the two types of clothing quality inspection?",
+        "input": "",
+        "output": "Clothing quality inspection is divided into two categories: appearance quality and internal quality. Appearance inspection includes size error, sewing quality, grid and stripe alignment, color difference, thread cleaning, etc.; internal inspection includes shrinkage, color fastness, weight, strength, etc."
+    },
+    {
+        "instruction": "What are the common ways to pack clothing?",
+        "input": "",
+        "output": "Clothing packaging is divided into two types: hanging packaging and box packaging, which are classified according to customer requirements. When packaging independently, the size, style number, and color must be consistent. When packaging in boxes, the boxes must be packed according to different requirements and the relevant information must be marked."
+    },
+    {
+        "instruction": "What is the \"three accurate and one complete\" principle of clothing pattern making?",
+        "input": "",
+        "output": "The \"three accurate and one complete\" principle of clothing pattern making refers to accurate style, accurate size, accurate calculation of details, and complete surface and lining process."
+    },
+    {
+        "instruction": "How to avoid deformation of garments during ironing?",
+        "input": "",
+        "output": "During ironing, the ironing temperature, pressure and steam volume need to be controlled according to different fabrics, especially for stretchable fabrics, special attention should be paid to avoid stretching and deformation. Shrinkage rate test: Each batch of fabrics is tested for natural shrinkage and washing shrinkage."
+    },
+    {
+        "instruction": "How to avoid color difference during fabric cutting?",
+        "input": "",
+        "output": "To avoid color difference during fabric cutting, ensure that the same batch of fabric is used for the same garment."
+    },
+    {
+        "instruction": "What is the error control standard when cutting fabrics?",
+        "input": "",
+        "output": "When cutting fabrics, the error needs to be controlled within ±0.2cm, and the depth of the tooth shears should not exceed 0.6cm."
+    },
+    {
+        "instruction": "When sewing knitted fabrics, what special requirements should be paid attention to?",
+        "input": "",
+        "output": "When sewing knitted fabrics, it is necessary to ensure that the sewing has stretchability, prevent the loops from coming apart, and adjust the stitch density according to the thickness of the fabric."
+    },
+    {
+        "instruction": "What are the basic requirements when choosing sewing thread?",
+        "input": "",
+        "output": "When choosing sewing thread, you must use sewing thread with high strength, good elasticity, and uniform softness to avoid problems such as thread breakage or uneven tension."
+    },
+    {
+        "instruction": "What principles should be followed when ironing clothes?",
+        "input": "",
+        "output": "Ironing clothes must follow the principle of \"30% sewing and 70% ironing\" to ensure that the clothes have a smooth and beautiful appearance."
+    },
+    {
+        "instruction": "What common quality problems should be avoided during the ironing process?",
+        "input": "",
+        "output": "During the ironing process, common quality problems such as splashes, gloss, hemp marks, and scorching should be avoided."
+    },
+    {
+        "instruction": "During quality inspection, are there any special requirements for clothing styles and sizes?",
+        "input": "",
+        "output": "During quality inspection, it is necessary to focus on checking whether the clothing style conforms to the sample and whether the size conforms to the workmanship sheet."
+    },
+    {
+        "instruction": "What are the two common ways of clothing packaging?",
+        "input": "",
+        "output": "Clothing packaging is usually divided into two ways: hanging packaging and box packaging, which are classified according to customer requirements."
+    },
+    {
+        "instruction": "What information needs to be printed on the outer packaging of the carton?",
+        "input": "",
+        "output": "The outer packaging of the carton needs to be printed with a box mark, indicating the customer, port of shipment, box number, quantity, place of origin and other information."
+    },
+    {
+        "instruction": "What inspections are required before production to ensure smooth production?",
+        "input": "",
+        "output": "All production process documents need to be checked before production to ensure that there are no omissions or errors. At the same time, after the sample is confirmed, the customer's signature approval must be obtained before formal production can begin."
+    },
+    {
+        "instruction": "What are the necessary tests for fabrics before cutting?",
+        "input": "",
+        "output": "Before cutting, the light transmittance, fuzziness, and abrasion resistance of the fabrics need to be tested to ensure that they meet quality standards."
+    },
+    {
+        "instruction": "What are the special requirements for cutting special fabrics (such as velvet and corduroy)?",
+        "input": "",
+        "output": "When cutting special fabrics (such as velvet and corduroy), it is necessary to ensure that the direction of the strands is consistent to avoid visual errors such as uneven color depth."
+    },
+    {
+        "instruction": "Why does the pattern of each part need to be numbered and marked with directions?",
+        "input": "",
+        "output": "The pattern of each part is numbered and marked with directions to avoid mistakes during cutting and to ensure that the cut pieces can correctly correspond to each part of the garment."
+    },
+    {
+        "instruction": "Why should we ensure that the fabric is flat before laying out?",
+        "input": "",
+        "output": "The purpose of ensuring that the fabric is flat before laying out is to avoid deformation of the cut pieces and to ensure that the cut garment parts are accurate in size and regular in shape."
+    },
+    {
+        "instruction": "What are the special requirements when cutting printed fabrics?",
+        "input": "",
+        "output": "When cutting printed fabrics, the pattern splicing must be accurate to avoid visual dislocation and affect the overall appearance of the garment."
+    },
+    {
+        "instruction": "What should you pay attention to when cutting striped or checked fabrics?",
+        "input": "",
+        "output": "When cutting striped or checked fabrics, the stripes and grids must be aligned to avoid left-right asymmetry and ensure the symmetry and beauty of the garment."
+    },
+    {
+        "instruction": "What are the special requirements for knitted fabrics when sewing?",
+        "input": "",
+        "output": "When sewing knitted fabrics, elastic stitches need to be used to prevent the seams from breaking. At the same time, strong parts (such as crotch and shoulders) need to be reinforced with three-thread overlock or lockstitch reinforcement."
+    },
+    {
+        "instruction": "How to avoid water stains on clothes during ironing?",
+        "input": "",
+        "output": "Pay attention to moisture control during ironing to avoid water stains on clothes. This is usually achieved by adjusting the steam output of the iron or using proper ironing techniques."
+    },
+    {
+        "instruction": "What are the requirements for seams in garment inspection?",
+        "input": "",
+        "output": "In garment inspection, seams must be firm and must not have broken threads, floating threads, or skipped threads, to ensure the durability and appearance quality of the garment."
+    },
+    {
+        "instruction": "What should be paid attention to when inspecting the zipper of clothing?",
+        "input": "",
+        "output": "When inspecting the zipper of clothing, we need to pay attention to whether it is smooth, without stuck or broken teeth, to ensure the comfort and durability when wearing."
+    },
+    {
+        "instruction": "How can we prevent the clothes from getting deformed or wrinkled during transportation?",
+        "input": "",
+        "output": "We need to prevent heavy pressure during transportation to avoid the clothes from getting deformed or wrinkled."
+    },
+    {
+        "instruction": "How to improve production efficiency and product quality through skills training?",
+        "input": "",
+        "output": "Regular skills training for workers can effectively improve production efficiency and product quality."
+    },
+    {
+        "instruction": "What are the benefits of strengthening production process data statistics?",
+        "input": "",
+        "output": "Strengthening production process data statistics can optimize production scheduling and improve factory production efficiency."
+    },
+    {
+        "instruction": "How can companies adjust their processes based on customer feedback?",
+        "input": "",
+        "output": "Companies should follow up on customer feedback in a timely manner and adjust their processes based on feedback to meet customer needs."
+    },
+    {
+        "instruction": "How should common quality problems be handled to prevent them from happening again?",
+        "input": "",
+        "output": "Classify common quality problems and develop targeted improvement measures to prevent them from happening again."
+    },
+    {
+        "instruction": "How to improve the efficiency of sample making for high-end customized products?",
+        "input": "",
+        "output": "For high-end customized products, 3D sample design can be introduced to improve the efficiency of sample making."
+    },
+    {
+        "instruction": "What is the \"three accurate and one complete\" principle of clothing pattern making?",
+        "input": "",
+        "output": "The \"three accurate and one complete\" principle of clothing pattern making refers to accurate style, accurate size, accurate calculation of details, and complete surface and lining process."
+    },
+    {
+        "instruction": "What is negative pattern design and what are its advantages?",
+        "input": "",
+        "output": "Negative pattern design is a method to reduce the number of patterns and improve the efficiency of plate making."
+    },
+    {
+        "instruction": "What methods are usually used in clothing structural design, and what may be combined for reinforcement or decoration?",
+        "input": "",
+        "output": "Clothing structural design usually adopts splicing methods and combines auxiliary materials for reinforcement or decoration."
+    },
+    {
+        "instruction": "What determines the pattern making requirements of clothing?",
+        "input": "",
+        "output": "The pattern making requirements of clothing are determined by the style characteristics, such as collar type, waist cut, cuff design, etc."
+    },
+    {
+        "instruction": "Why can rolled collars, double-needle cuffs and hems enhance the overall aesthetics of a garment?",
+        "input": "",
+        "output": "These design details enhance the sophistication and visual impact of a garment, thereby enhancing its overall aesthetics."
+    },
+    {
+        "instruction": "Why should seam loss and shrinkage be considered in garment specification calculation?",
+        "input": "",
+        "output": "In order to ensure that the final garment produced meets the standard size, the impact of seam loss and fabric shrinkage on the garment size must be considered."
+    },
+    {
+        "instruction": "Why do we need to pay special attention to the shoulder seam allowance when calculating the collar?",
+        "input": "",
+        "output": "The shoulder seam allowance has an important impact on the fit and wearing comfort of the collar, so special attention should be paid to ensure the final effect."
+    },
+    {
+        "instruction": "What is the importance of samples in clothing production?",
+        "input": "",
+        "output": "Samples are the basis of clothing production, and their accuracy directly determines the fit and quality of the final garment."
+    },
+    {
+        "instruction": "What are the requirements for the sample sizes of different parts when designing?",
+        "input": "",
+        "output": "The sample sizes of different parts need to be adjusted according to the clothing style and process requirements to ensure the fit and aesthetics of the final product."
+    },
+    {
+        "instruction": "What is special about the design of the sleeve pattern?",
+        "input": "",
+        "output": "The design of the sleeve pattern must match the armhole curve to ensure a natural fit after sewing, which is the key to ensuring the overall beauty and comfort of the garment."
+    },
+    {
+        "instruction": "What are the key points to pay attention to when laying out the material?",
+        "input": "",
+        "output": "When laying out the material, you need to ensure that the specifications of the finished garment are accurate, reduce fabric waste, and pay attention to the impact of the fabric direction on the cutting method, such as stripes and plaid fabrics need to align the patterns."
+    },
+    {
+        "instruction": "What is the impact of reasonable material layout on production costs?",
+        "input": "",
+        "output": "Reasonable material layout can improve fabric utilization and reduce production costs. It is one of the important means for enterprises to improve economic benefits."
+    },
+    {
+        "instruction": "What is the importance of sewing process?",
+        "input": "",
+        "output": "Sewing process determines production efficiency, product quality and stability, and is an indispensable link in garment production."
+    },
+    {
+        "instruction": "What are the main sewing methods for knitted garments?",
+        "input": "",
+        "output": "The main sewing methods for knitted garments include flat seams (used for main splicing parts), overlock seams (used to prevent fabric from unraveling) and stretch seams (used to strengthen elastic parts)."
+    },
+    {
+        "instruction": "What factors should be considered when choosing stitching?",
+        "input": "",
+        "output": "The choice of stitching should match the characteristics of the fabric. For example, elastic fabrics need to use elastic stitching to ensure sewing effect and wearing comfort."
+    },
+    {
+        "instruction": "What are the special requirements for the production of rolled collars?",
+        "input": "",
+        "output": "Rolled collars need to be made using a special rolling machine to ensure that the seams are smooth and beautiful, and enhance the overall grade and quality of the garment."
+    },
+    {
+        "instruction": "How can a combination of different sewing equipment help improve production efficiency?",
+        "input": "",
+        "output": "The combination of different sewing equipment can be optimized according to production needs. For example, using a flat seam machine to process highly elastic parts can significantly improve production efficiency and product quality."
+    },
+    {
+        "instruction": "What effect does ironing pressure have on the appearance of finished garments and how can it be controlled?",
+        "input": "",
+        "output": "Ironing pressure affects the smoothness of the finished garment. The ironing intensity needs to be controlled according to the fabric characteristics and design requirements to avoid excessive pressure causing fabric deformation or unnecessary indentations."
+    },
+    {
+        "instruction": "What should be paid attention to when ironing knitted fabrics?",
+        "input": "",
+        "output": "When ironing knitted fabrics, avoid stretching to prevent deformation. Use appropriate ironing tools and methods to gently handle knitted fabrics to ensure their original elasticity and shape."
+    },
+    {
+        "instruction": "How to prevent water stains during ironing?",
+        "input": "",
+        "output": "During ironing, you need to control the amount of water vapor and use clean ironing tools to avoid water stains on the clothes, which will affect the appearance quality."
+    },
+    {
+        "instruction": "How to deal with the splicing of striped and plaid fabrics?",
+        "input": "",
+        "output": "For striped and plaid fabrics, you need to ensure that the patterns are aligned when splicing to avoid left-right asymmetry in order to maintain the overall beauty of the garment."
+    },
+    {
+        "instruction": "Why do clothes need to be sorted and stored before they are put into storage?",
+        "input": "",
+        "output": "Clothes need to be sorted and stored before they are put into storage to prevent mixing of codes and styles, and to facilitate subsequent management and sales."
+    },
+    {
+        "instruction": "Are there any special requirements for sewing all the accessories?",
+        "input": "",
+        "output": "All accessories (such as care labels, trademarks) must be sewn accurately and in accordance with the process requirements to ensure the integrity and aesthetics of the garment."
+    },
+    {
+        "instruction": "What is the purpose of fabric and accessories inspection?",
+        "input": "",
+        "output": "The purpose of fabric and accessories inspection is to ensure that they meet production requirements, including quantity, appearance quality and internal quality. Through inspection, the quality of finished products can be effectively controlled and the rate of genuine products can be improved."
+    },
+    {
+        "instruction": "What is the role of the process sheet in garment processing?",
+        "input": "",
+        "output": "The process sheet is a guiding document in garment processing. It sets detailed requirements for the specifications, sewing, ironing, packaging, etc. of garments. It is an important means to ensure the smooth progress of mass production and that the final product meets customer requirements."
+    },
+    {
+        "instruction": "What are the requirements during the sewing process?",
+        "input": "",
+        "output": "The sewing process requires the seams to be stretchable and strong to prevent the fabric loops from unraveling and to control the seam density. At the same time, the quality of the sewing thread and the selection of the sewing needle must also meet the requirements."
+    },
+    {
+        "instruction": "What are the precautions for buttonhole buttoning?",
+        "input": "",
+        "output": "When buttonhole buttoning, you need to pay attention to the position of the buttonhole, the size and matching of the button, the opening cutting, etc. At the same time, the amount and strength of the buttonhole thread should be sufficient to prevent the button from falling off."
+    },
+    {
+        "instruction": "What is the role of ironing in garment processing?",
+        "input": "",
+        "output": "Ironing is an important process in garment processing. It removes wrinkles on fabrics through spraying and ironing, smoothes the appearance of garments, creates three-dimensional shapes, and achieves the purpose of beautiful appearance and comfortable wearing."
+    },
+    {
+        "instruction": "What is process shrinkage?",
+        "input": "",
+        "output": "Process shrinkage refers to the dimensional shrinkage that occurs during the sewing process due to the stretching or sewing of the fabric."
+    },
+    {
+        "instruction": "Why does the design of knitted garment samples need to consider sewing loss?",
+        "input": "",
+        "output": "During the sewing process, the fabric will have a certain loss when sewing. These losses need to be reserved when designing the sample to ensure the accuracy of the finished garment size."
+    },
+    {
+        "instruction": "What are the style features of a women's long-sleeved T-shirt with a curved waist?",
+        "input": "",
+        "output": "The style features include fitted shoulders and waist, a rolled collar, and double-needle hems on the hem and cuffs."
+    },
+    {
+        "instruction": "What are the requirements for ironing?",
+        "input": "",
+        "output": "The requirements for ironing include strictly controlling the temperature of the iron, ironing the seams straight and flat, and preventing important parts such as the collar from being deformed."
+    },
+    {
+        "instruction": "Why do knitwear need to be ironed on both sides?",
+        "input": "",
+        "output": "In order to ensure the overall flatness and appearance quality of knitwear, it is usually necessary to iron the back of the garment first, then the front. High-end products also need to be ironed on three sides."
+    },
+    {
+        "instruction": "What are the basic requirements for folding clothing?",
+        "input": "",
+        "output": "The basic requirements for folding clothing include folding it into a rectangle of a certain size according to the specifications of the packaging bag, box, or case, with the collar folded in the middle of the front, the collar shape symmetrical on both sides, and the thickness of the four sides as even as possible after folding."
+    },
+    {
+        "instruction": "Why should we consider the drape of fabric when designing samples?",
+        "input": "",
+        "output": "Because the drape of fabric will affect the drape effect and style of the finished garment, it needs to be considered and adjusted accordingly when designing samples."
+    },
+    {
+        "instruction": "How to select the process shrinkage rate based on the selected grey cloth raw material and organizational structure?",
+        "input": "",
+        "output": "Usually, it is necessary to comprehensively consider and experimentally determine the appropriate process shrinkage rate based on factors such as the fiber composition, organizational structure and sewing process of the grey cloth raw material."
+    },
+    {
+        "instruction": "Why do we need to modify and copy the sample garments we have produced?",
+        "input": "",
+        "output": "Because in the actual production process, we may find that the sample garments have some problems or deficiencies. By modifying and copying, we can continuously improve and optimize the sample and process, and improve product quality and production efficiency."
+    },
+    {
+        "instruction": "Why is it necessary to conduct spot checks during the sewing process of knitted garments?",
+        "input": "",
+        "output": "Because the sewing process of knitted garments involves multiple links and processes, various problems or errors are prone to occur. Through continuous spot checks, these problems can be discovered and corrected in time to ensure product quality."
+    },
+    {
+        "instruction": "What is the seam-overlay method?",
+        "input": "",
+        "output": "The seam-overlay method is a material arrangement method that arranges the patterns on the grey fabric in a certain order and uses the gaps between the patterns to cut the patterns to improve the utilization rate of the grey fabric."
+    },
+    {
+        "instruction": "How to determine the model of equipment used in the sewing process?",
+        "input": "",
+        "output": "Usually, it is necessary to select the appropriate equipment model based on factors such as sewing process requirements, fabric characteristics, and production efficiency."
+    },
+    {
+        "instruction": "What is an overlock sewing machine?",
+        "input": "",
+        "output": "An overlock sewing machine is a machine used for sewing garments. It can overlock the edges of garments to enhance the firmness and beauty of the edges."
+    },
+    {
+        "instruction": "Why does the pattern design of knitted garments need to consider the shrinkage of the sewing process?",
+        "input": "",
+        "output": "Because knitted fabrics will undergo dimensional changes (i.e. shrinkage) due to the effects of forces such as stretching and compression during the sewing process. Failure to consider this may result in inaccurate or deformed garment sizes."
+    },
+    {
+        "instruction": "How to determine the finished product specifications of clothing?",
+        "input": "",
+        "output": "Usually, the finished product specifications of clothing need to be determined based on a comprehensive consideration of factors such as style design, body size, wearing habits and market demand."
+    },
+    {
+        "instruction": "Why do we need to inspect the quality of samples?",
+        "input": "",
+        "output": "Because samples are one of the important references for clothing production, and their quality directly affects the quality and production efficiency of subsequent mass production. By inspecting the quality of samples, we can find and solve problems in time to ensure that product quality meets standard requirements."
+    },
+    {
+        "instruction": "What parts does the bottom part include?",
+        "input": "",
+        "output": "The bottom part includes creases, side seams, waistband, waist lining, back pockets, placket, lining, side seam straight pockets, side seam slant pockets, and belt loops, etc."
+    },
+    {
+        "instruction": "What is sewing?",
+        "input": "",
+        "output": "Sewing is a sewing operation in garment making, usually used to sew two or more layers of fabric together."
+    },
+    {
+        "instruction": "What is the function of clothing ironing process symbols?",
+        "input": "",
+        "output": "Clothing ironing process symbols are used to indicate the requirements of ironing methods and ironing temperatures, facilitating international technical exchanges."
+    },
+    {
+        "instruction": "What safety precautions should be taken when using an industrial sewing machine?",
+        "input": "",
+        "output": "When using an industrial sewing machine, you need to pay attention to safe operation and learn common sense about electrical safety. When the machine makes an abnormal sound, stop working immediately. After the upper thread is inserted into the needle hole, the machine should not run idle. Electric sewing machines should be turned on when in use and turned off when work is finished or when leaving the machine. Keep a certain distance between your hands and the needle during operation."
+    },
+    {
+        "instruction": "What kind of sewing method is flat seam?",
+        "input": "",
+        "output": "Flat seam is to overlap two layers of garment pieces and sew along the seam allowance. The seam allowance is generally about 1 cm wide and is used for joining garment pieces."
+    },
+    {
+        "instruction": "How to adjust the stitch and needle length of the sewing machine?",
+        "input": "",
+        "output": "The stitch adjustment is controlled by the adjustment device. Turning left makes the stitch longer, and turning right makes the stitch shorter (dense). The stitch length should be adjusted reasonably according to the thickness, tightness, softness and hardness of the fabric."
+    },
+    {
+        "instruction": "Why should we keep the tightness of the top and bottom consistent during machine sewing?",
+        "input": "",
+        "output": "Keeping the tightness of the top and bottom consistent during machine sewing can avoid the phenomenon of the top layer being longer and the bottom layer being shorter or the sewn seam being elastic and shrinking after sewing."
+    },
+    {
+        "instruction": "What is a back-and-forth seam?",
+        "input": "",
+        "output": "Back-and-forth seam is a sewing method in which two layers of garment pieces are overlapped with each other, the backs of the garment pieces are flat-sewn, the hair is trimmed, and then the garment pieces are turned over and overlapped with the front sides to sew the first hair seam inside. It is often used for thin shirts, underpants, etc."
+    },
+    {
+        "instruction": "What is three-dimensional cutting of clothing?",
+        "input": "",
+        "output": "Three-dimensional cutting of clothing is cutting and sewing directly on the human body or human model to more accurately show the three-dimensional effect and human body curve of clothing."
+    },
+    {
+        "instruction": "How to avoid wrinkling of fabric during sewing?",
+        "input": "",
+        "output": "Ways to avoid wrinkling of fabric include using the right presser foot, adjusting the height of the feed dog of the sewing machine, keeping the fabric flat, and adjusting the sewing speed and thread tension in time."
+    },
+    {
+        "instruction": "How to choose the right stitch when sewing clothes?",
+        "input": "",
+        "output": "The right stitch depends on the material, thickness and sewing requirements of the fabric. Common stitches include flat stitch, overlock stitch, and overlock stitch."
+    },
+    {
+        "instruction": "How to sew a smooth waistband?",
+        "input": "",
+        "output": "The key to sewing a smooth waistband is to keep the waistband and trouser pieces flat, properly adjust the stitch length and thread tension, and iron them at the right time."
+    },
+    {
+        "instruction": "How to avoid skipped stitches during sewing?",
+        "input": "",
+        "output": "Ways to avoid skipped stitches include choosing the right needle thread and stitch length, keeping the fabric flat, and adjusting the needle bar height and thread tension of the sewing machine in a timely manner."
+    },
+    {
+        "instruction": "What is a garment's dart?",
+        "input": "",
+        "output": "A garment's dart is a cutting technique used to create a garment's three-dimensional effect and adapt to the body's curves by removing excess fabric to achieve a tight or fitted effect."
+    },
+    {
+        "instruction": "What is the garment drawing process?",
+        "input": "",
+        "output": "The garment drawing process is a technique that changes the shape and size of fabric by pressing and stretching it. It is often used to create a three-dimensional effect of clothing and adapt to the curves of the human body."
+    },
+    {
+        "instruction": "How to prevent fabric from sliding during sewing?",
+        "input": "",
+        "output": "Ways to prevent fabric from sliding include using the right presser foot, adjusting the height and angle of the feed dog, and keeping the fabric flat and stable."
+    },
+    {
+        "instruction": "How do you ensure that the color of the thread matches the fabric during sewing?",
+        "input": "",
+        "output": "Ways to ensure that the color of the thread matches the fabric include choosing the same or similar color thread, considering the tone and texture of the fabric, and the requirements of the sewing effect."
+    },
+    {
+        "instruction": "How to choose the right sewing thread?",
+        "input": "",
+        "output": "The selection of the right sewing thread depends on the material, thickness and sewing requirements of the fabric. Usually, the sewing thread is required to have sufficient strength and wear resistance."
+    },
+    {
+        "instruction": "What is a hidden seam on a garment?",
+        "input": "",
+        "output": "A hidden seam on a garment is a sewing method that hides the seams inside the fabric and is often used on garments where the appearance needs to remain smooth and beautiful."
+    },
+    {
+        "instruction": "What is the importance of ironing in garment making?",
+        "input": "",
+        "output": "Ironing is an important part of garment sewing process. The industry often uses the saying \"30% sewing and 70% ironing\" to describe its importance."
+    },
+    {
+        "instruction": "What is the main purpose of ironing before cutting?",
+        "input": "",
+        "output": "The main purpose of ironing before cutting is to shrink the fabric and iron out wrinkles, so as to facilitate drawing lines for cutting."
+    },
+    {
+        "instruction": "What are the main functions of an electric iron?",
+        "input": "",
+        "output": "The main functions of an electric iron include temperature control, steam and water spray to make ironing more effective."
+    },
+    {
+        "instruction": "How to control the ironing temperature correctly?",
+        "input": "",
+        "output": "You need to understand the heat resistance of the fabric and adjust the temperature of the iron according to the fabric requirements, or use the dripping water method to test the iron temperature."
+    },
+    {
+        "instruction": "Why should we iron on the reverse side of the fabric as much as possible?",
+        "input": "",
+        "output": "To protect the surface of the fabric and avoid damage caused by ironing on the front side."
+    },
+    {
+        "instruction": "What is the push, gather and pull ironing process?",
+        "input": "",
+        "output": "The push, gather and pull ironing process is a process of thermoplastic deformation of fabrics, including gathering, pulling and pushing garment pieces."
+    },
+    {
+        "instruction": "What is the main purpose of ironing?",
+        "input": "",
+        "output": "The main purpose of ironing is to shorten the fabric in a certain part of the garment."
+    },
+    {
+        "instruction": "What are the principles for selecting adhesive interlining?",
+        "input": "",
+        "output": "The principles for selecting adhesive interlining include matching the thickness, color, heat resistance, shrinkage, style and feel of the fabric."
+    },
+    {
+        "instruction": "How to avoid debonding when ironing the adhesive interlining?",
+        "input": "",
+        "output": "When ironing, press down firmly and vertically to avoid the iron moving on the adhesive interlining to ensure adequate bonding."
+    },
+    {
+        "instruction": "How to judge whether the ironing effect is good?",
+        "input": "",
+        "output": "Clothes with good ironing effect should be flat, neat and beautiful, without obvious wrinkles or deformation."
+    },
+    {
+        "instruction": "What is button seam ironing?",
+        "input": "",
+        "output": "Button seam ironing refers to folding the seam edge inward and ironing it flat, which is often used on the waistband, hem and other parts of the pants."
+    },
+    {
+        "instruction": "How to deal with water splashes or shine on the surface of clothing?",
+        "input": "",
+        "output": "Cover the surface of the clothing with a damp cloth, gently iron it with an iron to allow the water vapor to penetrate the clothing and rub it repeatedly to remove the water splashes or shine."
+    },
+    {
+        "instruction": "Why should we test the heat resistance range of fabrics before ironing?",
+        "input": "",
+        "output": "To avoid damaging the fabrics or affecting the ironing effect due to over-high temperatures during ironing."
+    },
+    {
+        "instruction": "How do you determine whether the ironing tool is suitable for the current task?",
+        "input": "",
+        "output": "Choose the appropriate ironing tool according to the type of fabric, thickness and ironing requirements, such as the power of the electric iron, the spray volume of the watering can, etc."
+    },
+    {
+        "instruction": "Why should you check your iron and clothes before ironing?",
+        "input": "",
+        "output": "Checking your iron ensures that it is working properly and at the right temperature; checking your clothes helps you understand their material and ironing requirements so that you can iron them accordingly."
+    },
+    {
+        "instruction": "What should I do if the sewing machine needle, thread and sewing material do not match well?",
+        "input": "",
+        "output": "Replace the needle with one that matches the thread and sewing material."
+    },
+    {
+        "instruction": "What should I do if the hook tip of the rotary hook is defective?",
+        "input": "",
+        "output": "Grind the hook tip of the rotary hook or replace it with a new one."
+    },
+    {
+        "instruction": "What should I do if the presser foot groove is too wide and the presser foot pressure is not enough?",
+        "input": "",
+        "output": "Replace the presser foot with a narrow groove to increase the pressure."
+    },
+    {
+        "instruction": "What should I do if the hook does not rotate smoothly or is not installed in the right position?",
+        "input": "",
+        "output": "Adjust the hook to the correct position and tighten it."
+    },
+    {
+        "instruction": "How to deal with the damaged hook?",
+        "input": "",
+        "output": "Repair the hook or replace it with a new one."
+    },
+    {
+        "instruction": "What should I do if the needle is not installed properly and hits the presser foot or needle plate?",
+        "input": "",
+        "output": "Reinstall the needle in the correct position."
+    },
+    {
+        "instruction": "What should I do if there are thread ends or dirt in the hook?",
+        "input": "",
+        "output": "Remove the hook, clean the thread ends or dirt, and add a small amount of sewing machine oil."
+    },
+    {
+        "instruction": "What should I do if the sewing thread is very tight?",
+        "input": "",
+        "output": "Slow down the hook, speed up the feed dog, adjust the position of the thread guide, reduce the tension of the thread take-up spring, weaken the tension of the upper thread, etc."
+    },
+    {
+        "instruction": "How to fix the cross-thread when sewing thick materials with a flatbed sewing machine?",
+        "input": "",
+        "output": "Increase the thread take-up amount, change to thicker needles, raise the needle bar, adjust the position of the feed dog, etc."
+    },
+    {
+        "instruction": "How to reduce the noise of a single-needle high-speed lockstitch sewing machine?",
+        "input": "",
+        "output": "Adjust the needle length, check the gap between the feed dog and the needle plate, the gap between the rotary hook and the inner liner, the gap between the bevel gear, the gap between the needle bar, etc."
+    },
+    {
+        "instruction": "The sewing machine suddenly stops during use, but the power supply is normal. What could be the reason?",
+        "input": "",
+        "output": "The motor belt may be broken or detached, resulting in the inability to transmit power. The belt needs to be checked and replaced or reinstalled."
+    },
+    {
+        "instruction": "The sewing machine breaks the thread when sewing thick materials. How should I adjust it?",
+        "input": "",
+        "output": "You can try to replace a thicker needle, enlarge the needle plate hole, adjust the height and speed of the feed dog, and reduce the needle thread tension to increase the sewing machine's adaptability to thick materials."
+    },
+    {
+        "instruction": "The sewing machine makes noise during sewing. What are the possible reasons?",
+        "input": "",
+        "output": "The noise may come from the friction between the feed dog and the needle plate, the gap between the rotary hook and the inner liner is too large, the bevel gear gap is not appropriate, or the needle bar is loose. These parts need to be checked and adjusted one by one."
+    },
+    {
+        "instruction": "What is the reason for the stitch length deviation during sewing?",
+        "input": "",
+        "output": "The stitch length deviation is because the stitch length is not strictly adjusted according to the process requirements during sewing."
+    },
+    {
+        "instruction": "How to solve the problem of skipped stitches during sewing?",
+        "input": "",
+        "output": "Skipped stitches are caused by mechanical failure and can be solved by replacing new needles or adjusting the machine."
+    },
+    {
+        "instruction": "How to remove the chalk marks left by cutting?",
+        "input": "",
+        "output": "You can use a color-erasable pen and color-erasable chalk to remove the chalk marks left by cutting."
+    },
+    {
+        "instruction": "What are the causes of packing errors?",
+        "input": "",
+        "output": "Packing errors are usually caused by the packers' carelessness and failure to pack strictly according to the packing list. It is necessary to strengthen the responsibility of the packers and strictly pack according to the packing list and inspectors to conduct random inspections."
+    },
+    {
+        "instruction": "Will the problem of misalignment affect the appearance of the garment? How to solve it?",
+        "input": "",
+        "output": "The problem of misalignment will seriously affect the appearance of the garment. It can be solved by attaching seam allowance markers on the machine and improving sewing technology."
+    },
+    {
+        "instruction": "On which accessories does the rust problem usually occur, and how to solve it?",
+        "input": "",
+        "output": "Rust problems usually occur on accessories such as metal buttons, zippers, and buckles. Due to poor quality, rust will stick to the seams, so standard accessories need to be used."
+    },
+    {
+        "instruction": "What are the consequences of missed ironing and how to solve it?",
+        "input": "",
+        "output": "Missed ironing will result in a large area of unironed clothes, affecting the appearance and quality of the clothes. Careful ironing is required to ensure that every part is ironed properly."
+    },
+    {
+        "instruction": "What effect will it have on clothing if the pieces are cut straight?",
+        "input": "",
+        "output": "If the pieces are cut straight, the clothing will appear asymmetrical or distorted when worn, affecting the overall appearance."
+    },
+    {
+        "instruction": "What parts of the garment will be affected by a crooked buttonhole?",
+        "input": "",
+        "output": "A crooked buttonhole will affect the fastening effect and overall appearance of the garment. You need to put the garment pieces straight to ensure that the buttonhole is horizontal and vertical."
+    },
+    {
+        "instruction": "What are the consequences of packing errors? How to avoid them?",
+        "input": "",
+        "output": "Packing errors can cause the goods received by customers to be inconsistent with their orders, affecting customer satisfaction and brand image. It is necessary to strengthen the responsibility of packers, strictly pack according to the packing list, and have inspectors conduct random inspections."
+    },
+    {
+        "instruction": "What are the three major elements of fashion design?",
+        "input": "",
+        "output": "The three major elements of fashion design are shape, color and material."
+    },
+    {
+        "instruction": "What is the inner shape design of clothing?",
+        "input": "",
+        "output": "The inner shape design of clothing mainly includes the design of structural lines, darts, collar shapes, sleeve shapes and parts."
+    },
+    {
+        "instruction": "What is the role of darts in clothing design?",
+        "input": "",
+        "output": "Darts are used in clothing design to shape the garment, fit the human body, and facilitate processing."
+    },
+    {
+        "instruction": "What is the impact of color matching on clothing design?",
+        "input": "",
+        "output": "The combination of colors is directly related to the shaping of the overall style of clothing."
+    },
+    {
+        "instruction": "What is analogous color matching?",
+        "input": "",
+        "output": "Analogous color matching is the matching of colors by different variations of the same hue in terms of lightness and darkness."
+    },
+    {
+        "instruction": "What is similar color matching?",
+        "input": "",
+        "output": "Similar color matching refers to the matching of colors within a 90-degree range on the color wheel, giving people a gentle and harmonious feeling."
+    },
+    {
+        "instruction": "How important is fabric to clothing design?",
+        "input": "",
+        "output": "Fabric is the material from which clothing is made, and its performance and characteristics are crucial to clothing design."
+    },
+    {
+        "instruction": "What is the concept of overall beauty of clothing?",
+        "input": "",
+        "output": "The concept of overall beauty of clothing emphasizes the overall matching beauty of clothing and accessories."
+    },
+    {
+        "instruction": "What role do accessories play in clothing design?",
+        "input": "",
+        "output": "Accessories can enhance the artistic style of clothing and improve the shape and color of clothing."
+    },
+    {
+        "instruction": "What is the clothing style design and color matching system?",
+        "input": "",
+        "output": "The clothing style design and color matching system is a fast and versatile style design and color matching system controlled by a microcomputer."
+    },
+    {
+        "instruction": "How to consider the needs of the wearer in clothing design?",
+        "input": "",
+        "output": "In clothing design, it is necessary to fully consider the wearer's age, personality, temperament and other factors, as well as their wearing occasions and needs."
+    },
+    {
+        "instruction": "How to predict the fashion trend of clothing?",
+        "input": "",
+        "output": "Predicting the fashion trend of clothing requires attention to fashion information, market feedback, consumer behavior and other aspects."
+    },
+    {
+        "instruction": "How to balance the artistry and practicality of clothing?",
+        "input": "",
+        "output": "In clothing design, we need to fully consider the wearer's needs and usage occasions, while paying attention to the beauty and comfort of clothing."
+    },
+    {
+        "instruction": "How to choose the right fabric for clothing design?",
+        "input": "",
+        "output": "Choosing the right fabric requires considering many aspects such as the fabric's performance, appearance and the wearer's needs."
+    },
+    {
+        "instruction": "How to shape the brand image of clothing?",
+        "input": "",
+        "output": "To shape the brand image of clothing, we need to pay attention to the brand's cultural connotation, design style, product quality and marketing."
+    },
+    {
+        "instruction": "How do fashion designers communicate with manufacturers?",
+        "input": "",
+        "output": "Fashion designers need to communicate closely with manufacturers to clarify design requirements and production processes to ensure the smooth implementation of design plans."
+    },
+    {
+        "instruction": "What is market research for clothing?",
+        "input": "",
+        "output": "Market research for clothing refers to the study and analysis of market demand, competitors, consumer behavior, etc., to provide a basis for decision-making in design and production."
+    },
+    {
+        "instruction": "How can fashion designers maintain their creative inspiration?",
+        "input": "",
+        "output": "Fashion designers can broaden their horizons through traveling, reading, and communication, and maintain their sensitivity and curiosity about life, thereby maintaining their creative inspiration."
+    },
+    {
+        "instruction": "What is personalized clothing design?",
+        "input": "",
+        "output": "Personalized clothing design refers to tailor-made or personalized design based on the wearer's personal characteristics and needs to meet their unique wearing needs."
+    },
+    {
+        "instruction": "What is a dart?",
+        "input": "",
+        "output": "A dart is a sewed-in dart that is used to shape the garment and adapt to the human body. It can be divided into chest dart, waist dart, shoulder dart, etc. according to its location."
+    },
+    {
+        "instruction": "What is similar color matching?",
+        "input": "",
+        "output": "Similar color matching is to match the same hue in different shades of light and dark to make the color of clothing harmonious and unified."
+    },
+    {
+        "instruction": "What are the characteristics of contrasting colors?",
+        "input": "",
+        "output": "Contrasting colors refer to the color matching within the range of 120 to 180 degrees on the color wheel. The style is bright and lively, and is often used in the design of sportswear, children's clothing, etc."
+    },
+    {
+        "instruction": "What is the importance of fabric in clothing design?",
+        "input": "",
+        "output": "Fabric is the material used to make clothing. Its performance and characteristics are crucial to clothing design. It is necessary to give full play to the characteristics of fabric and perfectly combine it with the shape and style of clothing."
+    },
+    {
+        "instruction": "What aspects does the concept of overall beauty of clothing include?",
+        "input": "",
+        "output": "The concept of overall beauty of clothing includes the innovation of the three major elements of clothing itself, namely shape, color and fabric, as well as the matching combination of clothing items, emphasizing the overall matching beauty."
+    },
+    {
+        "instruction": "What is the role of clothing renderings?",
+        "input": "",
+        "output": "Clothing renderings are an important means of expressing design ideas. They are used to reflect the effect of clothing on the human body and measure the designer's creative ability, design level and artistic accomplishment."
+    },
+    {
+        "instruction": "What are the advantages of the automatic nesting system?",
+        "input": "",
+        "output": "The automatic nesting system can save fabric, shorten the working cycle, improve production efficiency, ensure the quality of clothing and reduce labor intensity."
+    },
+    {
+        "instruction": "What is cutting ?",
+        "input": "",
+        "output": "Cutting is cutting fabric into desired shapes and sizes according to a pattern."
+    },
+    {
+        "instruction": "What is quality inspection ?",
+        "input": "",
+        "output": "Quality inspection is the inspection of finished garments to ensure that they meet design requirements and quality standards."
+    },
+    {
+        "instruction": "What is a zipper ?",
+        "input": "",
+        "output": "A zipper is an opening device used to connect two pieces of fabric, commonly used in clothing plackets, pockets and other parts."
+    },
+    {
+        "instruction": "What is a CAM system ?",
+        "input": "",
+        "output": "A CAM system is a computer-aided manufacturing system used to control clothing production equipment."
+    },
+    {
+        "instruction": "What is SEDEX certification ?",
+        "input": "",
+        "output": "SEDEX certification is a supplier ethical data exchange certification used to evaluate the social responsibility performance of enterprises."
+    },
+    {
+        "instruction": "What is fast fashion ?",
+        "input": "",
+        "output": "Fast fashion refers to a clothing model that responds quickly to fashion trends and is produced and sold quickly."
+    },
+    {
+        "instruction": "What is non-woven fabric ?",
+        "input": "",
+        "output": "Non-woven fabric is a kind of fabric that is not made through textile process, usually used in disposable clothing or medical supplies."
+    },
+    {
+        "instruction": "What is virtual fitting ?",
+        "input": "",
+        "output": "Virtual fitting is to allow consumers to try on clothes online through virtual reality technology."
+    },
+    {
+        "instruction": "What is Bespoke ?",
+        "input": "",
+        "output": "Bespoke refers to high-end clothing that is completely hand-made according to the consumer's requirements."
+    },
+    {
+        "instruction": "What is a size chart ?",
+        "input": "",
+        "output": "A size chart is a table used to identify clothing sizes, usually including data such as bust, waist, hips, etc."
+    },
+    {
+        "instruction": "What is fit ?",
+        "input": "",
+        "output": "Fit refers to the cut and shape of a garment, which affects how it fits."
+    },
+    {
+        "instruction": "What is silhouette ?",
+        "input": "",
+        "output": "Silhouette refers to the overall outline of a garment, such as A-type, H-type, X-type, etc."
+    },
+    {
+        "instruction": "What is a pocket ?",
+        "input": "",
+        "output": "A pocket is a part of clothing used to store items. Common pockets include patch pockets, insert pockets, and pockets."
+    },
+    {
+        "instruction": "What is pleating ?",
+        "input": "",
+        "output": "Pleating is a decorative texture created by folding or pleating fabric."
+    },
+    {
+        "instruction": "What is a ruffle ?",
+        "input": "",
+        "output": "A ruffle is a wavy decorative edge created by folding or curling fabric."
+    },
+    {
+        "instruction": "What are hotfix diamonds ?",
+        "input": "",
+        "output": "Hotfix diamonds are the process of attaching decorative diamonds or beads to a garment using heat and pressure."
+    },
+    {
+        "instruction": "What is a primary label ?",
+        "input": "",
+        "output": "A primary label is a brand label sewn onto a garment, usually at the neckline or side seam."
+    },
+    {
+        "instruction": "What is a hangtag ?",
+        "input": "",
+        "output": "A hangtag is a label attached to a garment that usually indicates information such as brand, price, ingredients, etc."
+    },
+    {
+        "instruction": "What is a packing list ?",
+        "input": "",
+        "output": "A packing list is a list that records the quantity, style, size, etc. of each box of clothing."
+    },
+    {
+        "instruction": "What is inspection ?",
+        "input": "",
+        "output": "Inspection is the examination of finished garments to ensure that they meet customer requirements."
+    },
+    {
+        "instruction": "What is AQL ?",
+        "input": "",
+        "output": "AQL is the acceptance quality limit, which is used to determine the sampling quantity and acceptance standard for inspection."
+    },
+    {
+        "instruction": "What is a claim ?",
+        "input": "",
+        "output": "A claim is a request for compensation from a customer to a supplier due to quality issues or other reasons."
+    },
+    {
+        "instruction": "What is brand licensing ?",
+        "input": "",
+        "output": "Brand licensing means that the brand owner allows other companies to use its brand for production and sales."
+    },
+    {
+        "instruction": "What is the possible cause of stitch skipping on the sewing machine?",
+        "input": "",
+        "output": "Stitch skipping may be caused by bent or blunt needles, improper thread tension, mismatch between needle and fabric, etc."
+    },
+    {
+        "instruction": "How to deal with the problem of thread breakage on the sewing machine?",
+        "input": "",
+        "output": "Check whether the thread tension is too tight, whether the stitches are smooth, whether there are burrs on the needle plate hole, and whether the needle and thread used are matched."
+    },
+    {
+        "instruction": "What should I do if the sewing machine makes unusual noises when running?",
+        "input": "",
+        "output": "It may be due to lack of lubrication, loose parts or wear. It is recommended to regularly oil and clean the sewing machine, and check and tighten loose parts."
+    },
+    {
+        "instruction": "What are the common reasons for a sewing machine needle to break?",
+        "input": "",
+        "output": "It could be due to using the wrong type of needle, the needle not matching the fabric, improper operation, or a damaged needle."
+    },
+    {
+        "instruction": "How can I prevent my sewing machine from missing stitches?",
+        "input": "",
+        "output": "Make sure you use the correct needle and thread combination, adjust the thread tension, check the needle regularly, and replace it when necessary."
+    },
+    {
+        "instruction": "How to solve the problem of skipped stitches on the sewing machine?",
+        "input": "",
+        "output": "Check whether the needle is bent or blunt, whether the thread tension is appropriate, and whether there is any foreign matter on the shuttle bed."
+    },
+    {
+        "instruction": "What should I do if my sewing machine has difficulty sewing thick materials?",
+        "input": "",
+        "output": "Use a needle suitable for thick materials and adjust the presser foot pressure to ensure that the sewing machine has sufficient penetration."
+    },
+    {
+        "instruction": "What could be the cause of uneven stitches on my sewing machine?",
+        "input": "",
+        "output": "It could be due to uneven thread tension, uneven needle plate or presser foot, or uneven material feed."
+    },
+    {
+        "instruction": "What should I do if the fabric is stretched during sewing?",
+        "input": "",
+        "output": "Adjust the presser foot pressure to ensure that the fabric can pass smoothly and avoid stretching."
+    },
+    {
+        "instruction": "The stitches on my sewing machine skip during sewing. What could be the cause?",
+        "input": "",
+        "output": "It could be a bent needle, improper thread tension, or a problem with the shuttle bed."
+    },
+    {
+        "instruction": "What is the possible cause of fabric tearing during sewing?",
+        "input": "",
+        "output": "The needle may be too large or blunt, the thread tension is too tight, or the machine is operated improperly."
+    },
+    {
+        "instruction": "How to solve the problem of twisted stitches during sewing?",
+        "input": "",
+        "output": "Adjust the thread tension, ensure the tension of the upper and lower threads is balanced, and check the quality of the thread."
+    },
+    {
+        "instruction": "What could be the cause of overlapping stitches on the sewing machine?",
+        "input": "",
+        "output": "It could be due to uneven thread tension, uneven material feed, or a problem with the needle."
+    },
+    {
+        "instruction": "How to deal with the difficulties of size and cutting during the garment pattern making process?",
+        "input": "",
+        "output": "Ensuring that the garment size is accurate is crucial to the quality and comfort of the garment. During the cutting, cutting and sewing process, you may encounter difficulties in dealing with complex patterns, folds, etc."
+    },
+    {
+        "instruction": "How to deal with the wrinkles of fabrics in clothing pattern making?",
+        "input": "",
+        "output": "When making patterns, it is necessary to consider the characteristics of the fabrics and reasonably design the position and number of wrinkles to achieve the desired decorative effect."
+    },
+    {
+        "instruction": "How to deal with the size adjustment of special body types during the pattern making process?",
+        "input": "",
+        "output": "When making patterns, the pattern needs to be adjusted accordingly according to the characteristics of special body types to ensure the fit and comfort of the garment."
+    },
+    {
+        "instruction": "How to deal with the glossiness of different fabrics in clothing pattern making?",
+        "input": "",
+        "output": "When making patterns, it is necessary to consider the glossiness of the fabrics and design the styles and details of the clothing accordingly to ensure the coordination of the overall effect."
+    },
+    {
+        "instruction": "How to deal with the grain direction of fabrics during pattern making?",
+        "input": "",
+        "output": "When making and cutting patterns, you need to pay attention to the grain direction of fabrics to ensure that the arrangement of the pieces meets the design requirements and avoid affecting the appearance and performance of the garment."
+    },
+    {
+        "instruction": "How to deal with the breathability of fabrics in clothing pattern making?",
+        "input": "",
+        "output": "When making patterns, it is necessary to consider the breathability of fabrics and design the style and structure of clothing accordingly to ensure comfort."
+    },
+    {
+        "instruction": "What is the possible reason for the color difference between the beginning and the end of the fabric after dyeing?",
+        "input": "",
+        "output": "Possible reasons include uneven fabric treatment during pre-treatment, changes in dye absorption during dyeing, poor stability of dyeing solution, etc."
+    },
+    {
+        "instruction": "What are the possible reasons for the color difference of the fabric after dyeing?",
+        "input": "",
+        "output": "Possible reasons include uneven pre-treatment, improper dyeing process control, improper dye selection, etc."
+    },
+    {
+        "instruction": "What is the possible reason for the color difference between the beginning and the end of the fabric after dyeing?",
+        "input": "",
+        "output": "Possible reasons include uneven fabric treatment during pre-treatment, changes in dye absorption during dyeing, poor stability of dyeing solution, etc."
+    }
+]
